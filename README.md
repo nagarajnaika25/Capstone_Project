@@ -1,2 +1,2 @@
-# Capstone_Project_2025
+# Capstone_Project
 StarAgile_Capstone project
