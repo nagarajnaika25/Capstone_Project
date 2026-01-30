@@ -16,10 +16,9 @@ public class LoginModuletestClass_01
 	
 	
 	
-	
+	//Fre setup
 	@BeforeTest
-	
-	public void  BeforeTest()
+	 public void  BeforeTest()
 	{
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();

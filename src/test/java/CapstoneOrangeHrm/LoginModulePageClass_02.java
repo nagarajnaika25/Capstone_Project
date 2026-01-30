@@ -29,7 +29,7 @@ public class LoginModulePageClass_02 {
 	
 
 	
-	
+	//Page factory
 	
 	public  LoginModulePageClass_02(WebDriver d)
 	{

@@ -126,7 +126,7 @@ public class AdminModulePageClass_02 {
 		return text; //return
 	}
 
-	// ByUserName() // : 2
+	// ByUserName() //  "" 2
 //			
 //			public String ByUserName(String Username) throws InterruptedException
 //			{

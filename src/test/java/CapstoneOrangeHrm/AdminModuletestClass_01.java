@@ -14,8 +14,8 @@ public class AdminModuletestClass_01
 	AdminModulePageClass_02 p2;
 	LoginModulePageClass_02 p1;
 	
+	//Pre setup
 @BeforeTest
-	
 	public void  BeforeTest()
 	{
 		driver=new ChromeDriver();

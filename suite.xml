@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="CapstoneOrangeHrm.TestLogin"/>
-    <!--  <class name="CapstoneOrangeHrm.login"/>
+    <!--  <class name="CapstoneOrangeHrm.login-"/>
       <class name="CapstoneOrangeHrm.AdminModuletestClass_01"/>
       <class name="CapstoneOrangeHrm.LoginModuletestClass_01"/> -->
     </classes>

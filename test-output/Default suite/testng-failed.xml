@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="EcommerceApplication.Ecommerce_Client">
+      <class name="CapstoneOrangeHrm.Login_Module">
         <methods>
-          <include name="BeforeTest"/>
-          <include name="afterTest"/>
-          <include name="placeOrderBy"/>
+          <include name="tearDown"/>
+          <include name="testLogin"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- EcommerceApplication.Ecommerce_Client -->
+      </class> <!-- CapstoneOrangeHrm.Login_Module -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

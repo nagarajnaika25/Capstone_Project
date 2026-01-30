@@ -50,7 +50,7 @@ public class Login_Module{
     ExtentReports extent;
     ExtentTest test;
 
-   
+   //Pre setup
 	@BeforeTest
     public void setUp() throws IOException {
        
@@ -152,7 +152,7 @@ public class Login_Module{
     }
 
 
-    // Method to capture screenshots
+    // Method to capture screenshots 
     public void captureScreenshot(String filePath) {
         try {
             TakesScreenshot screenshot = (TakesScreenshot) driver;
